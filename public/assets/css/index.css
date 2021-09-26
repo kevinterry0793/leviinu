@@ -2063,6 +2063,7 @@ li {
   display: -ms-flexbox;
   display: flex;
   overflow: hidden;
+  height: calc(100vh);
   padding: 90px 3% 103px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
@@ -2073,8 +2074,8 @@ li {
   -ms-flex-align: center;
   align-items: center;
   background-color: #000;
-  background-image: url("../img/levifullbackground.jpeg"),
-    url("../img/levifullbackground.jpeg");
+  background-image: url("../img/fullbackground.jpg"),
+    url("../img/fullbackground.jpg");
   background-position: 0px 0px, 0px 0px;
   background-size: cover, cover;
   background-repeat: no-repeat;
